@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhrubojyoticha9" target="blank"><img src="https://img.shields.io/twitter/follow/dhrubojyoticha9?logo=twitter&style=for-the-badge" alt="dhrubojyoticha9" /></a> </p>
 
-- 🔭 I’m currently working on **Quick-Connect**
+- 🧑‍🎓 I’m currently pursuing  **Diploma in Computer Science Engineering**
 
 - 🌱 I’m currently learning **Advanced JavaScript, React.js, React Native, IOT**
 
