@@ -1,13 +1,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi folks 👋, I'm Dhrubojyoti Chakraborty 🧑‍💻</h1>
 <h3 align="center">A Passionate Full Stack Developer & Cloud Enthusiast ☁️</h3>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxMzcwMjAsIm5iZiI6MTcyMzEzNjcyMCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA4VDE3MDUyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjMzZjMmMyZDliN2YyYjhhYjIwZmE1ZTdiZjFiMWIyMDNmZWMyMDZmNzMyMDI3ZDc4Nzk3MDk5YjFkOWIzMjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.qtfWYCwRCDiX6TmSQU-_RP1Lvi5xs2aifBHxzoi6Y2E">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrubojyot&label=Profile%20views&color=0e75b6&style=flat" alt="dhrubojyot" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhrubojyot" alt="dhrubojyot" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dhrubojyoticha9" target="blank"><img src="https://img.shields.io/twitter/follow/dhrubojyoticha9?logo=twitter&style=for-the-badge" alt="dhrubojyoticha9" /></a> </p>
+
+<img align="right" alt="ironman" width="300" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png">
 
 - 🧑‍🎓 I’m currently pursuing  **Diploma in Computer Science Engineering**
 
