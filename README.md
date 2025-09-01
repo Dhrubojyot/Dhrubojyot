@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi folks 👋, I'm Dhrubojyoti Chakraborty 🧑‍💻</h1>
-<h3 align="center">A PASSIONATE FULL STACK DEVELOPER, CLOUD PASSIONATE ☁️ & AI/ML ENTHUSIAST 🤖</h3>
+<h3 align="center">A FULL STACK DEVELOPER, MENTOR, CLOUD PASSIONATE ☁️ & AI/ML ENTHUSIAST 🤖</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="gradient line" width="100%" height="15px">
 </p>
