@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrubojyot&label=Profile%20views&color=0e75b6&style=flat" alt="dhrubojyot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhrubojyot" alt="dhrubojyot" /></a> </p>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dhrubojyot&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/> </div>
 
 <p align="left"> <a href="https://twitter.com/dhrubojyoticha9" target="blank"><img src="https://img.shields.io/twitter/follow/dhrubojyoticha9?logo=twitter&style=for-the-badge" alt="dhrubojyoticha9" /></a> </p>
 
@@ -59,4 +59,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhrubojyot&show_icons=true&locale=en" alt="dhrubojyot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhrubojyot&" alt="dhrubojyot" /></p>
+<h1 align="left">✨ Random Dev Quote</h1>
+<div align="left"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random quote"/> </div>
 <img align="center" alt="runner" width="100%" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg">
