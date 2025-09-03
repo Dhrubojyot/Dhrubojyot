@@ -53,9 +53,10 @@
   </a> -->
 </div>
 
-<h2 align="left">🔸 Certifications</h2>
+<h2 align="left">🔸 Digital Badges</h2>
 
-<p align="left">
+<p align="left"> 
+<p align="left">📌 Google Cloud Completion Badges </p>
   <a href="https://www.cloudskillsboost.google/public_profiles/3c4504a3-986e-46e4-8abb-c337310dadf0/badges/5955284" target="_blank" >
     <img src="https://cdn.qwiklabs.com/aZCEW8kX8F55jslLqdJtFXlRc0GIDr%2F0gWQ4rM0USI8%3D" alt="Google Cloud Certification" width="250"/>
   </a>
@@ -77,11 +78,34 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/3c4504a3-986e-46e4-8abb-c337310dadf0/badges/5954883" target="_blank">
     <img src="https://cdn.qwiklabs.com/6erThXhqA2fRqnl6b5jklHw0gsa2adAenkvXBWBHy4U%3D" alt="" width="250"/>
   </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/591540e0-ad33-46dd-8826-38114678d1ad/badges/10394189" target="_blank">
+    <img src="https://cdn.qwiklabs.com/v8AL1tQJYNNUQj9j69SWe2nWtVX43vGx2fqU6%2FpZDAE%3D" alt="" width="250"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/591540e0-ad33-46dd-8826-38114678d1ad/badges/10393944" target="_blank">
+    <img src="https://cdn.qwiklabs.com/hKYzKuumKFXn%2FkB2byuon%2FeMaz8yZ0yp2nWP90AdYQA%3D" alt="" width="250"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/591540e0-ad33-46dd-8826-38114678d1ad/badges/10372081" target="_blank">
+    <img src="https://cdn.qwiklabs.com/2W513LGPJ2HTm525pSXWPK%2FfOiyI29wioFIVL7pRVzg%3D" alt="" width="250"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/591540e0-ad33-46dd-8826-38114678d1ad/badges/10285206" target="_blank">
+    <img src="https://cdn.qwiklabs.com/5Eeu42AHV2aw8H1cAhXhkn0OkcMbB7xKoAqE%2BS2sUxQ%3D" alt="" width="250"/>
+  </a>
+   <a href="https://www.cloudskillsboost.google/public_profiles/591540e0-ad33-46dd-8826-38114678d1ad/badges/10283149" target="_blank">
+    <img src="https://cdn.qwiklabs.com/ATMfNcoGdK4dbPN2Pdf7lWzEmdLagQaJ3%2BX7PNCrF%2Fk%3D" alt="" width="250"/>
+  </a>
+
 </p>
 
-<p align="left"> 
+<p align="left">
+  <p align="left">📌 Google Cloud Top Skill Badges. </p>
   <a href="https://www.cloudskillsboost.google/public_profiles/3c4504a3-986e-46e4-8abb-c337310dadf0/badges/4476813" target="_blank">
     <img src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" alt="" width="250"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/3c4504a3-986e-46e4-8abb-c337310dadf0/badges/4434383" target="_blank">
+    <img src="https://cdn.qwiklabs.com/eyrbhXHgXHKYZFDqAbww8CGLzlYmIb8l9zWD3IZHmI4%3D" alt="" width="250"/>
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/3c4504a3-986e-46e4-8abb-c337310dadf0/badges/4821883" target="_blank">
+    <img src="https://cdn.qwiklabs.com/%2BpOT%2BBZY9BS7kfk5iglnlKqCgOdME6g%2BVx3q0cok%2FgE%3D" alt="" width="250"/>
   </a>
 </p>
 
