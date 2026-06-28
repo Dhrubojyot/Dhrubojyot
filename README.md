@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrubojyot&label=Profile%20views&color=0e75b6&style=flat" alt="dhrubojyot" /> </p>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dhrubojyot&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/> </div>
+<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dhrubojyot&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophies"/> </div> -->
 
 <p align="left"> <a href="https://twitter.com/dhrubojyoticha9" target="blank"><img src="https://img.shields.io/twitter/follow/dhrubojyoticha9?logo=twitter&style=for-the-badge" alt="dhrubojyoticha9" /></a> </p>
 
@@ -16,8 +16,9 @@
 
 <h2 align="left">🔸 About Me</h2>
 
-- 🧑‍🎓 I’m currently pursuing  **Diploma in Computer Science Engineering**
-
+- 🧑‍🎓 I’m currently pursuing  **B.tech in Computer Science & Engineering**
+- 🧑‍🎓 Former **Diploma Engineering Holder in Computer Science & Technology**
+ 
 - 🌱 I’m currently learning **Advanced JavaScript, React.js, React Native, IOT**
 
 - 👨‍💻 All of my projects are available at [https://dhrubojyotidev.netlify.app/](https://dhrubojyotidev.netlify.app/)
